@@ -1,0 +1,1 @@
+*{margin:0 auto;padding:0;text-align:center;box-sizing:border-box}#root{border-top:9px solid darkblue;padding:10px}input{width:15rem;height:2rem;margin:20px}li{list-style-type:none;font-weight:700;font-size:2rem;margin:10px;background-color:#fadcba}li div{display:flex;flex-direction:column;height:5rem;justify-content:space-around}
